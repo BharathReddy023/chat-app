@@ -1,5 +1,5 @@
 
-# Real-Time Chat Applocation
+# Real-Time Chat Application
 
  Welcome to the Real-Time Chat Application! This application allows users to engage in real-time private messaging with each other. It is built with scalability and efficiency in mind, utilizing technologies such as Kafka, Redis, and GoLang.
 
